@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Whargh?
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and other programming languages :0 )
+- 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on nothing
 - ✨ I would say im pretty good at Lua
 - 😄 Pronouns: He/Him
