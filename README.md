@@ -16,6 +16,6 @@
   - ✨ I'm interested in microcontrollers
   - 🤫 <s><a href="heres a cool picture of a cat.png">click me</a></s>
 
-  <h2>📞How Can You Contact Me? 📞</h2>
+  <h1>📞How Can You Contact Me? 📞</h1>
 
   - You can't lol
