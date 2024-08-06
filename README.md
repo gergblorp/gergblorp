@@ -6,7 +6,7 @@
   </p>
   
   <hr>
-  <h1>👋 Hi, I’m Whargh?</h1>
+  <h1>👋 Hi, I’m Whargh? 👋</h1>
   
   - 👨‍💻 I’m interested in programming
   - 🌱 I’m currently learning <Strong>Python</Strong> and <Strong>HTML</Strong>
@@ -15,3 +15,7 @@
   - 🫃 Pronouns: He/Him
   - ✨ I'm interested in microcontrollers
   - 🤫 <s><a href="heres a cool picture of a cat.png">click me</a></s>
+
+  <h2>📞How Can You Contact Me? 📞</h2>
+
+  - You can't lol
