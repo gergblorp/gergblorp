@@ -15,7 +15,3 @@
   - 🫃 Pronouns: He/Him
   - ✨ I'm interested in <em>microcontrollers</em>
   - 🤫 <strike><small><a href="heres a cool picture of a cat.png">click me</a></small></strike>
-
-  <h1>📞How Can You Contact Me? 📞</h1>
-
-  - You can't lol
