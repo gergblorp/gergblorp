@@ -6,7 +6,7 @@
   </p>
   
   <hr>
-  <h1>"👋 Hi, I’m Whargh?"</h1>
+  <h1>👋 Hi, I’m Whargh?"</h1>
   
   - 👨‍💻 I’m interested in programming
   - 🌱 I’m currently learning Python and HTML
