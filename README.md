@@ -5,7 +5,8 @@
   /></a>
 </p>
 
-
+<hr>
+<hr>
 
 - 👋 Hi, I’m Whargh?
 - 👨‍💻 I’m interested in programming
