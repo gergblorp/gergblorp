@@ -13,4 +13,5 @@
   - 😎 I'm im pretty good at <strong>Lua</strong>
   - 🐒 Fun Fact - My favorite animal is a <em>monkey</em>
   - 🫃 Pronouns: He/Him
-  <!--ey what are you doing here?>
+  - ✨ I'm interested in microcontrollers
+  - 🤫 <s><a href="heres a cool picture of a cat.png">click me</a></s>
