@@ -9,7 +9,7 @@
   <h1>👋 Hi, I’m Whargh?</h1>
   
   - 👨‍💻 I’m interested in programming
-  - 🌱 I’m currently learning Python and HTML
-  - 😎 I'm im pretty good at Lua
+  - 🌱 I’m currently learning <Strong>Python</Strong> and <Strong>HTML</Strong>
+  - 😎 I'm im pretty good at <strong>Lua</strong>
   - 🐒 Fun Fact - My favorite animal is a <strong>monkey</strong>
   - 🫃 Pronouns: He/Him
