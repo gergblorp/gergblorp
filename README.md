@@ -13,8 +13,8 @@
   - 😎 I'm im pretty good at <strong>Lua</strong>
   - 🐒 Fun Fact - My favorite animal is a <em>monkey</em>
   - 🫃 Pronouns: He/Him
-  - ✨ I'm interested in microcontrollers
-  - 🤫 <s><a href="heres a cool picture of a cat.png">click me</a></s>
+  - ✨ I'm interested in <em>microcontrollers</em>   <small>(i have 3 microcontrollers :))</small>
+  - 🤫 <strike><small><a href="heres a cool picture of a cat.png">click me</a></small></strike>
 
   <h1>📞How Can You Contact Me? 📞</h1>
 
