@@ -11,7 +11,7 @@
   - 👨‍💻 I’m interested in programming
   - 🌱 I’m currently learning <Strong>Python</Strong> and <Strong>HTML</Strong>
   - 😎 I'm im pretty good at <strong>Lua</strong>
-  - 🐒 Fun Fact - My favorite animal is a <em>monkey</em>
+  - 🐒 Fun Fact - My favorite animal is the <em>monkey</em>
   - 🫃 Pronouns: He/Him
   - ✨ I'm interested in <em>microcontrollers</em>
   - 🤫 <strike><small><a href="heres a cool picture of a cat.png">click me</a></small></strike>
