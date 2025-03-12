@@ -6,7 +6,7 @@
 </p>
   
   <hr>
-  <h1>👋 Hi, I’m Whargh? 👋</h1>
+  <h1>👋 Hi, I’m gergblorp :D 👋</h1>
   
   - 🐒 Fun Fact - My favorite animal is the <em>monkey</em>
   - 🫃 Pronouns: He/Him
