@@ -8,6 +8,4 @@
   <hr>
   <h1>👋 Hi, I’m Gergblorp :D 👋</h1>
   
-  - 🐒 Fun Fact - My favorite animal is the <em>monkey</em>
   - 🫃 Pronouns: He/Him
-  - 🤫 <strike><small><a href="heres a cool picture of a cat.png">click me</a></small></strike>
